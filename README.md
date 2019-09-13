@@ -1,40 +1,25 @@
-## TargetGames.eu
+## TargetGames.eu - Home
 
-You can use the [editor on GitHub](https://github.com/zJustMarcel02/targetgames/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Project:** [Click this Link](https://github.com/zJustMarcel02/targetgames/ "TargetGames - GitHub - Project")<br>
+**Issues:** [Issue Create here](https://github.com/zJustMarcel02/targetgames/issues "TargetGames - Issues")<br>
+**Wiki:** [View the Wiki Here!](https://github.com/zJustMarcel02/targetgames/wiki "TargetGames - Wiki")<br>
+**Discord:** [Join our Discord!](https://invite.gg/tg-project "TargetGames - Discord")<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Du kannst uns Hier [Spenden!](https://donate.targetgames.eu "TargetGames - Donate!")
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# ToDo
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zJustMarcel02/targetgames/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zJustMarcel02/targetgames/). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[GitHub - Contact](https://github.com/contact "GitHub - Contact")
 
 
 **ToDo:**
@@ -42,3 +27,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - [x] Update 1.0
 - [ ] Update 1.1
 - [ ] Update 1.2
+- [ ] Donate Page Setup
+- [ ] TS3Server Setup
